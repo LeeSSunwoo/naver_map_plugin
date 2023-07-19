@@ -44,6 +44,6 @@ android {
         implementation('com.naver.maps:map-sdk:3.16.2') {
             exclude group: 'com.android.support'
         }
-        implementation 'com.google.android.gms:play-services-location:18.0.0'
+        implementation 'com.google.android.gms:play-services-location:21.0.1'
     }
 }
